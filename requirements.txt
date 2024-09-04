@@ -1,0 +1,9 @@
+bigtree==0.19.4
+numpy==2.1.0
+pandas==2.2.2
+scikit_learn==1.4.2
+scipy==1.14.1
+tqdm==4.66.4
+Flask==3.0.3
+flask_cors==4.0.1
+

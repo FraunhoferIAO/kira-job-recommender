@@ -1,0 +1,31 @@
+bigtree
+0.19.3
+MIT
+
+numpy
+1.26.4
+BSD License
+
+pandas
+2.2.1
+BSD License
+
+scikit-learn
+1.4.2
+BSD License
+
+scipy
+1.13.0
+BSD License
+
+tqdm
+4.66.4
+MIT License; Mozilla Public License 2.0 (MPL 2.0)
+
+Flask
+3.0.3
+BSD License
+
+flask_cors
+4.0.1
+MIT License
